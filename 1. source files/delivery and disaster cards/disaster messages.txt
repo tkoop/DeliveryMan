@@ -1,0 +1,16 @@
+Flood|All bridges over the Red River are destroyed.  All roads within two mile posts are destroyed.  No rebuilding is allowed for one turn.
+Flood|All bridges over the Seine River are destroyed.  No rebuilding is allowed for one turn.
+Flood|All bridges over the La Salle River are destroyed.  No rebuilding is allowed for one turn.
+Flood|All bridges over the Morris River are destroyed.  No rebuilding is allowed for one turn.
+Snow Storm|All vehicles in and around Steinbach for two mile posts may not move for one turn.
+Snow Storm|All vehicles in and around Lorette for two mile posts may not move for one turn.
+Snow Storm|All vehicles in and around Niverville for two mile posts may not move for one turn.
+Snow Storm|All vehicles in and around La Salle for two mile posts may not move for one turn.
+Snow Storm|All vehicles in and around Morris for two mile posts may not move for one turn.
+Wind Storm|Trees fall over and block the road.  All vehicles in trees may not move for one turn.
+Heat Wave|Everyone's vehicle overheats.  Pay $5000 per vehicle for repairs.
+Icy Roads|Everyone's vehicle hits the ditch and looses one load.
+Thunder Storm|All vehicles in and around Steinbach for 4 mile posts travel at half speed for one turn.
+Thunder Storm|All vehicles in and around Niverville for 4 mile posts travel at half speed for one turn.
+Thunder Storm|All vehicles in and around Morris for 4 mile posts travel at half speed for one turn.
+Thunder Storm|All vehicles in and around Lorette for 4 mile posts travel at half speed for one turn.

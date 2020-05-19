@@ -1,0 +1,26 @@
+OVERVIEW
+--------
+Since there are so many delivery cards, they are created using a node.js script.
+
+The script reads in the prices.csv file, a comma-separated value spreadsheet that contains prices from each place to the nearest material.  The script also reads in deliverycardtemplate.svg, and produces output png files in the "2. images created from source files" directory.
+
+
+
+GET READY
+---------
+
+- install python like this: 
+    sudo apt-get install python3.6
+
+- make sure Inkscape is installed like this: 
+    sudo apt-get install inkscape
+
+
+RUN THE SCRIPT
+--------------
+
+- run this:
+    python makecards.py
+
+
+

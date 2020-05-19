@@ -1,0 +1,640 @@
+Aubigny,Beer,16000
+Aubigny,Cars,11000
+Aubigny,Cheese,13000
+Aubigny,Feed,9000
+Aubigny,Fruit,18000
+Aubigny,Furniture,11000
+Aubigny,Gas,9000
+Aubigny,Grain,9000
+Aubigny,Groceries,10000
+Aubigny,Honey,13000
+Aubigny,Ice Cream,12000
+Aubigny,Lumber,11000
+Aubigny,Medicine,10000
+Aubigny,Milk,13000
+Aubigny,Pigs,16000
+Aubigny,Pizza,12000
+Aubigny,Plants,11000
+Aubigny,Turkeys,19000
+Aubigny,Water,29000
+Blumenort,Beer,11000
+Blumenort,Cars,6000
+Blumenort,Cheese,8000
+Blumenort,Feed,6000
+Blumenort,Gas,9000
+Blumenort,Grain,17000
+Blumenort,Groceries,13000
+Blumenort,Honey,7000
+Blumenort,Ice Cream,7000
+Blumenort,Lumber,9000
+Blumenort,Medicine,9000
+Blumenort,Milk,6000
+Blumenort,Pigs,6000
+Blumenort,Pizza,6000
+Blumenort,Plants,13000
+Blumenort,Water,16000
+Brunkild,Beer,28000
+Brunkild,Cars,8000
+Brunkild,Cheese,24000
+Brunkild,Feed,8000
+Brunkild,Fruit,15000
+Brunkild,Furniture,19000
+Brunkild,Gas,14000
+Brunkild,Groceries,8000
+Brunkild,Honey,24000
+Brunkild,Ice Cream,16000
+Brunkild,Lumber,8000
+Brunkild,Medicine,22000
+Brunkild,Milk,24000
+Brunkild,Pigs,25000
+Brunkild,Pizza,16000
+Brunkild,Plants,19000
+Brunkild,Turkeys,28000
+Brunkild,Water,40000
+Domain,Beer,23000
+Domain,Cars,11000
+Domain,Cheese,18000
+Domain,Feed,11000
+Domain,Fruit,10000
+Domain,Furniture,13000
+Domain,Gas,10000
+Domain,Grain,10000
+Domain,Groceries,7000
+Domain,Honey,18000
+Domain,Ice Cream,16000
+Domain,Lumber,7000
+Domain,Medicine,17000
+Domain,Milk,18000
+Domain,Pigs,19000
+Domain,Pizza,16000
+Domain,Plants,13000
+Domain,Turkeys,22000
+Domain,Water,34000
+Dufrost,Beer,11000
+Dufrost,Cars,14000
+Dufrost,Cheese,8000
+Dufrost,Feed,9000
+Dufrost,Fruit,14000
+Dufrost,Furniture,13000
+Dufrost,Gas,12000
+Dufrost,Groceries,6000
+Dufrost,Honey,11000
+Dufrost,Ice Cream,11000
+Dufrost,Lumber,6000
+Dufrost,Medicine,7000
+Dufrost,Milk,11000
+Dufrost,Pigs,11000
+Dufrost,Pizza,14000
+Dufrost,Plants,8000
+Dufrost,Turkeys,17000
+Dufrost,Water,24000
+Friedensfeld,Beer,7000
+Friedensfeld,Cars,5000
+Friedensfeld,Cheese,9000
+Friedensfeld,Feed,5000
+Friedensfeld,Furniture,5000
+Friedensfeld,Gas,14000
+Friedensfeld,Grain,14000
+Friedensfeld,Groceries,11000
+Friedensfeld,Ice Cream,6000
+Friedensfeld,Lumber,7000
+Friedensfeld,Medicine,11000
+Friedensfeld,Milk,9000
+Friedensfeld,Pigs,7000
+Friedensfeld,Pizza,5000
+Friedensfeld,Plants,9000
+Friedensfeld,Turkeys,8000
+Friedensfeld,Water,14000
+Giroux,Beer,9000
+Giroux,Cars,7000
+Giroux,Cheese,11000
+Giroux,Feed,7000
+Giroux,Fruit,7000
+Giroux,Furniture,7000
+Giroux,Gas,10000
+Giroux,Grain,19000
+Giroux,Groceries,15000
+Giroux,Honey,8000
+Giroux,Ice Cream,6000
+Giroux,Lumber,6000
+Giroux,Medicine,10000
+Giroux,Milk,10000
+Giroux,Pigs,10000
+Giroux,Pizza,6000
+Giroux,Plants,14000
+Giroux,Turkeys,7000
+Giroux,Water,13000
+Grunthal,Beer,6000
+Grunthal,Cars,10000
+Grunthal,Feed,9000
+Grunthal,Fruit,9000
+Grunthal,Furniture,10000
+Grunthal,Gas,14000
+Grunthal,Grain,8000
+Grunthal,Groceries,6000
+Grunthal,Honey,7000
+Grunthal,Ice Cream,7000
+Grunthal,Medicine,6000
+Grunthal,Milk,7000
+Grunthal,Pigs,6000
+Grunthal,Pizza,10000
+Grunthal,Turkeys,13000
+Grunthal,Water,19000
+Ile des Chenes,Beer,17000
+Ile des Chenes,Cheese,8000
+Ile des Chenes,Feed,7000
+Ile des Chenes,Fruit,11000
+Ile des Chenes,Furniture,8000
+Ile des Chenes,Gas,7000
+Ile des Chenes,Grain,17000
+Ile des Chenes,Groceries,7000
+Ile des Chenes,Honey,11000
+Ile des Chenes,Lumber,8000
+Ile des Chenes,Medicine,13000
+Ile des Chenes,Milk,7000
+Ile des Chenes,Pigs,7000
+Ile des Chenes,Plants,8000
+Ile des Chenes,Turkeys,11000
+Ile des Chenes,Water,24000
+Kleefeld,Beer,9000
+Kleefeld,Cars,6000
+Kleefeld,Cheese,6000
+Kleefeld,Feed,7000
+Kleefeld,Fruit,9000
+Kleefeld,Furniture,8000
+Kleefeld,Gas,11000
+Kleefeld,Grain,11000
+Kleefeld,Groceries,7000
+Kleefeld,Lumber,7000
+Kleefeld,Medicine,7000
+Kleefeld,Pigs,9000
+Kleefeld,Pizza,8000
+Kleefeld,Plants,7000
+Kleefeld,Turkeys,9000
+Kleefeld,Water,19000
+La Broquerie,Beer,11000
+La Broquerie,Cars,8000
+La Broquerie,Cheese,13000
+La Broquerie,Feed,8000
+La Broquerie,Fruit,7000
+La Broquerie,Furniture,8000
+La Broquerie,Gas,13000
+La Broquerie,Grain,19000
+La Broquerie,Groceries,15000
+La Broquerie,Honey,7000
+La Broquerie,Medicine,13000
+La Broquerie,Milk,13000
+La Broquerie,Pigs,11000
+La Broquerie,Plants,13000
+La Broquerie,Turkeys,9000
+La Broquerie,Water,10000
+La Salle,Beer,28000
+La Salle,Cars,17000
+La Salle,Cheese,20000
+La Salle,Feed,17000
+La Salle,Furniture,16000
+La Salle,Groceries,11000
+La Salle,Honey,22000
+La Salle,Ice Cream,17000
+La Salle,Lumber,11000
+La Salle,Medicine,22000
+La Salle,Milk,21000
+La Salle,Pigs,21000
+La Salle,Pizza,17000
+La Salle,Plants,16000
+La Salle,Turkeys,24000
+La Salle,Water,37000
+Landmark,Beer,14000
+Landmark,Cars,6000
+Landmark,Cheese,6000
+Landmark,Fruit,6000
+Landmark,Furniture,6000
+Landmark,Gas,11000
+Landmark,Grain,17000
+Landmark,Groceries,11000
+Landmark,Honey,8000
+Landmark,Ice Cream,7000
+Landmark,Lumber,10000
+Landmark,Medicine,11000
+Landmark,Pizza,7000
+Landmark,Plants,10000
+Landmark,Turkeys,6000
+Landmark,Water,20000
+Lorette,Beer,13000
+Lorette,Cars,9000
+Lorette,Cheese,12000
+Lorette,Feed,10000
+Lorette,Fruit,13000
+Lorette,Furniture,13000
+Lorette,Gas,9000
+Lorette,Grain,22000
+Lorette,Groceries,13000
+Lorette,Honey,15000
+Lorette,Lumber,14000
+Lorette,Medicine,9000
+Lorette,Milk,10000
+Lorette,Pigs,10000
+Lorette,Plants,14000
+Lorette,Turkeys,13000
+Lorette,Water,26000
+Lowe Farm,Beer,27000
+Lowe Farm,Cars,11000
+Lowe Farm,Cheese,24000
+Lowe Farm,Feed,11000
+Lowe Farm,Fruit,25000
+Lowe Farm,Furniture,25000
+Lowe Farm,Grain,13000
+Lowe Farm,Honey,28000
+Lowe Farm,Ice Cream,8000
+Lowe Farm,Lumber,18000
+Lowe Farm,Medicine,24000
+Lowe Farm,Milk,28000
+Lowe Farm,Pigs,27000
+Lowe Farm,Pizza,8000
+Lowe Farm,Plants,24000
+Lowe Farm,Turkeys,33000
+Lowe Farm,Water,40000
+Marchand,Beer,12000
+Marchand,Cars,15000
+Marchand,Cheese,19000
+Marchand,Feed,15000
+Marchand,Fruit,14000
+Marchand,Furniture,15000
+Marchand,Gas,20000
+Marchand,Grain,24000
+Marchand,Groceries,22000
+Marchand,Honey,14000
+Marchand,Ice Cream,10000
+Marchand,Lumber,10000
+Marchand,Medicine,20000
+Marchand,Milk,19000
+Marchand,Pigs,16000
+Marchand,Pizza,10000
+Marchand,Plants,19000
+Marchand,Turkeys,16000
+Mitchell,Beer,8000
+Mitchell,Cars,5000
+Mitchell,Cheese,7000
+Mitchell,Feed,5000
+Mitchell,Fruit,6000
+Mitchell,Furniture,5000
+Mitchell,Gas,13000
+Mitchell,Grain,13000
+Mitchell,Groceries,9000
+Mitchell,Lumber,9000
+Mitchell,Medicine,9000
+Mitchell,Milk,6000
+Mitchell,Pigs,8000
+Mitchell,Pizza,5000
+Mitchell,Plants,9000
+Mitchell,Turkeys,7000
+Mitchell,Water,17000
+Morris,Beer,23000
+Morris,Cars,11000
+Morris,Cheese,20000
+Morris,Feed,11000
+Morris,Fruit,24000
+Morris,Furniture,19000
+Morris,Grain,9000
+Morris,Groceries,8000
+Morris,Honey,21000
+Morris,Lumber,17000
+Morris,Medicine,17000
+Morris,Milk,21000
+Morris,Pigs,23000
+Morris,Plants,19000
+Morris,Turkeys,27000
+Morris,Water,36000
+New Bothwell,Beer,12000
+New Bothwell,Feed,6000
+New Bothwell,Fruit,8000
+New Bothwell,Furniture,8000
+New Bothwell,Gas,10000
+New Bothwell,Grain,14000
+New Bothwell,Groceries,10000
+New Bothwell,Honey,6000
+New Bothwell,Ice Cream,6000
+New Bothwell,Lumber,8000
+New Bothwell,Medicine,10000
+New Bothwell,Milk,6000
+New Bothwell,Pigs,6000
+New Bothwell,Pizza,8000
+New Bothwell,Plants,8000
+New Bothwell,Turkeys,8000
+New Bothwell,Water,20000
+Niverville,Beer,15000
+Niverville,Cars,8000
+Niverville,Cheese,8000
+Niverville,Feed,7000
+Niverville,Fruit,13000
+Niverville,Gas,6000
+Niverville,Grain,13000
+Niverville,Groceries,7000
+Niverville,Honey,9000
+Niverville,Ice Cream,8000
+Niverville,Medicine,10000
+Niverville,Milk,9000
+Niverville,Pigs,10000
+Niverville,Pizza,8000
+Niverville,Turkeys,13000
+Niverville,Water,25000
+Osborne,Beer,23000
+Osborne,Cars,7000
+Osborne,Cheese,19000
+Osborne,Feed,7000
+Osborne,Fruit,13000
+Osborne,Furniture,14000
+Osborne,Gas,11000
+Osborne,Grain,8000
+Osborne,Groceries,9000
+Osborne,Honey,19000
+Osborne,Ice Cream,14000
+Osborne,Lumber,9000
+Osborne,Medicine,17000
+Osborne,Milk,19000
+Osborne,Pigs,21000
+Osborne,Pizza,14000
+Osborne,Plants,14000
+Osborne,Turkeys,23000
+Osborne,Water,35000
+Otterburne,Beer,12000
+Otterburne,Cars,8000
+Otterburne,Cheese,8000
+Otterburne,Fruit,13000
+Otterburne,Furniture,7000
+Otterburne,Gas,7000
+Otterburne,Grain,9000
+Otterburne,Groceries,6000
+Otterburne,Honey,7000
+Otterburne,Ice Cream,7000
+Otterburne,Lumber,7000
+Otterburne,Medicine,6000
+Otterburne,Milk,7000
+Otterburne,Pigs,11000
+Otterburne,Pizza,11000
+Otterburne,Plants,7000
+Otterburne,Turkeys,13000
+Otterburne,Water,23000
+Paradise Village,Beer,5000
+Paradise Village,Cars,14000
+Paradise Village,Cheese,16000
+Paradise Village,Feed,13000
+Paradise Village,Fruit,11000
+Paradise Village,Furniture,11000
+Paradise Village,Gas,6000
+Paradise Village,Grain,25000
+Paradise Village,Groceries,21000
+Paradise Village,Honey,15000
+Paradise Village,Ice Cream,6000
+Paradise Village,Lumber,13000
+Paradise Village,Medicine,6000
+Paradise Village,Milk,13000
+Paradise Village,Pigs,13000
+Paradise Village,Pizza,11000
+Paradise Village,Plants,20000
+Paradise Village,Turkeys,11000
+Paradise Village,Water,14000
+Richer,Cars,13000
+Richer,Cheese,16000
+Richer,Feed,13000
+Richer,Fruit,11000
+Richer,Furniture,11000
+Richer,Gas,7000
+Richer,Grain,25000
+Richer,Groceries,21000
+Richer,Honey,14000
+Richer,Ice Cream,7000
+Richer,Lumber,11000
+Richer,Medicine,7000
+Richer,Milk,14000
+Richer,Pigs,14000
+Richer,Pizza,11000
+Richer,Plants,20000
+Richer,Turkeys,11000
+Richer,Water,12000
+Rosenfeld,Beer,27000
+Rosenfeld,Cars,13000
+Rosenfeld,Cheese,24000
+Rosenfeld,Feed,13000
+Rosenfeld,Fruit,27000
+Rosenfeld,Furniture,26000
+Rosenfeld,Gas,7000
+Rosenfeld,Grain,11000
+Rosenfeld,Groceries,7000
+Rosenfeld,Honey,25000
+Rosenfeld,Ice Cream,7000
+Rosenfeld,Lumber,21000
+Rosenfeld,Medicine,22000
+Rosenfeld,Milk,25000
+Rosenfeld,Pigs,27000
+Rosenfeld,Pizza,7000
+Rosenfeld,Plants,24000
+Rosenfeld,Turkeys,31000
+Rosenfeld,Water,40000
+Rosenort,Beer,24000
+Rosenort,Cheese,21000
+Rosenort,Fruit,17000
+Rosenort,Furniture,17000
+Rosenort,Gas,11000
+Rosenort,Grain,8000
+Rosenort,Groceries,11000
+Rosenort,Honey,21000
+Rosenort,Ice Cream,11000
+Rosenort,Lumber,12000
+Rosenort,Medicine,18000
+Rosenort,Milk,21000
+Rosenort,Pigs,24000
+Rosenort,Pizza,11000
+Rosenort,Plants,17000
+Rosenort,Turkeys,26000
+Rosenort,Water,37000
+Saint-Pierre-Jolys,Beer,9000
+Saint-Pierre-Jolys,Cars,10000
+Saint-Pierre-Jolys,Cheese,6000
+Saint-Pierre-Jolys,Feed,6000
+Saint-Pierre-Jolys,Fruit,11000
+Saint-Pierre-Jolys,Furniture,10000
+Saint-Pierre-Jolys,Gas,10000
+Saint-Pierre-Jolys,Grain,7000
+Saint-Pierre-Jolys,Honey,7000
+Saint-Pierre-Jolys,Ice Cream,7000
+Saint-Pierre-Jolys,Lumber,6000
+Saint-Pierre-Jolys,Milk,7000
+Saint-Pierre-Jolys,Pigs,9000
+Saint-Pierre-Jolys,Pizza,11000
+Saint-Pierre-Jolys,Plants,6000
+Saint-Pierre-Jolys,Turkeys,13000
+Saint-Pierre-Jolys,Water,22000
+Sainte Agathe,Beer,16000
+Sainte Agathe,Cars,10000
+Sainte Agathe,Cheese,11000
+Sainte Agathe,Feed,7000
+Sainte Agathe,Fruit,15000
+Sainte Agathe,Furniture,6000
+Sainte Agathe,Grain,12000
+Sainte Agathe,Groceries,8000
+Sainte Agathe,Honey,11000
+Sainte Agathe,Ice Cream,10000
+Sainte Agathe,Lumber,6000
+Sainte Agathe,Medicine,10000
+Sainte Agathe,Milk,11000
+Sainte Agathe,Pigs,13000
+Sainte Agathe,Pizza,10000
+Sainte Agathe,Plants,6000
+Sainte Agathe,Turkeys,15000
+Sainte Agathe,Water,27000
+Sanford,Beer,28000
+Sanford,Cars,12000
+Sanford,Cheese,22000
+Sanford,Feed,12000
+Sanford,Fruit,11000
+Sanford,Furniture,17000
+Sanford,Gas,11000
+Sanford,Grain,8000
+Sanford,Honey,23000
+Sanford,Ice Cream,19000
+Sanford,Medicine,22000
+Sanford,Milk,23000
+Sanford,Pigs,28000
+Sanford,Pizza,19000
+Sanford,Plants,17000
+Sanford,Turkeys,26000
+Sanford,Water,39000
+Sarto,Cars,8000
+Sarto,Cheese,6000
+Sarto,Feed,8000
+Sarto,Fruit,7000
+Sarto,Furniture,8000
+Sarto,Gas,16000
+Sarto,Grain,11000
+Sarto,Groceries,9000
+Sarto,Honey,7000
+Sarto,Ice Cream,8000
+Sarto,Lumber,6000
+Sarto,Medicine,9000
+Sarto,Milk,9000
+Sarto,Pizza,8000
+Sarto,Plants,6000
+Sarto,Turkeys,12000
+Sarto,Water,16000
+St. Adolphe,Beer,18000
+St. Adolphe,Cars,7000
+St. Adolphe,Cheese,10000
+St. Adolphe,Feed,10000
+St. Adolphe,Fruit,14000
+St. Adolphe,Furniture,7000
+St. Adolphe,Grain,14000
+St. Adolphe,Honey,12000
+St. Adolphe,Ice Cream,7000
+St. Adolphe,Lumber,7000
+St. Adolphe,Medicine,13000
+St. Adolphe,Milk,11000
+St. Adolphe,Pigs,11000
+St. Adolphe,Pizza,7000
+St. Adolphe,Plants,7000
+St. Adolphe,Turkeys,14000
+St. Adolphe,Water,27000
+St. Jean Baptiste,Beer,19000
+St. Jean Baptiste,Cars,17000
+St. Jean Baptiste,Cheese,16000
+St. Jean Baptiste,Feed,15000
+St. Jean Baptiste,Fruit,22000
+St. Jean Baptiste,Furniture,18000
+St. Jean Baptiste,Gas,9000
+St. Jean Baptiste,Groceries,13000
+St. Jean Baptiste,Honey,18000
+St. Jean Baptiste,Ice Cream,9000
+St. Jean Baptiste,Lumber,13000
+St. Jean Baptiste,Medicine,14000
+St. Jean Baptiste,Milk,18000
+St. Jean Baptiste,Pigs,19000
+St. Jean Baptiste,Pizza,9000
+St. Jean Baptiste,Plants,16000
+St. Jean Baptiste,Turkeys,24000
+St. Jean Baptiste,Water,32000
+St. Malo,Beer,9000
+St. Malo,Cars,13000
+St. Malo,Cheese,7000
+St. Malo,Feed,10000
+St. Malo,Fruit,13000
+St. Malo,Furniture,13000
+St. Malo,Gas,14000
+St. Malo,Grain,6000
+St. Malo,Honey,10000
+St. Malo,Ice Cream,10000
+St. Malo,Medicine,7000
+St. Malo,Milk,10000
+St. Malo,Pigs,9000
+St. Malo,Pizza,13000
+St. Malo,Plants,7000
+St. Malo,Turkeys,16000
+St. Malo,Water,22000
+Ste. Anne,Beer,7000
+Ste. Anne,Cars,12000
+Ste. Anne,Cheese,13000
+Ste. Anne,Feed,11000
+Ste. Anne,Fruit,9000
+Ste. Anne,Furniture,9000
+Ste. Anne,Grain,23000
+Ste. Anne,Groceries,18000
+Ste. Anne,Honey,13000
+Ste. Anne,Lumber,13000
+Ste. Anne,Milk,11000
+Ste. Anne,Pigs,11000
+Ste. Anne,Pizza,9000
+Ste. Anne,Plants,18000
+Ste. Anne,Turkeys,9000
+Ste. Anne,Water,20000
+Dufresne,Beer,9000
+Dufresne,Cars,13000
+Dufresne,Cheese,13000
+Dufresne,Feed,10000
+Dufresne,Fruit,10000
+Dufresne,Furniture,10000
+Dufresne,Gas,6000
+Dufresne,Grain,23000
+Dufresne,Groceries,16000
+Dufresne,Honey,14000
+Dufresne,Ice Cream,6000
+Dufresne,Lumber,16000
+Dufresne,Medicine,6000
+Dufresne,Milk,10000
+Dufresne,Pigs,10000
+Dufresne,Pizza,7000
+Dufresne,Plants,16000
+Dufresne,Turkeys,10000
+Dufresne,Water,23000
+Ste. Elizabeth,Beer,16000
+Ste. Elizabeth,Cars,13000
+Ste. Elizabeth,Cheese,13000
+Ste. Elizabeth,Feed,12000
+Ste. Elizabeth,Fruit,19000
+Ste. Elizabeth,Furniture,14000
+Ste. Elizabeth,Gas,10000
+Ste. Elizabeth,Grain,7000
+Ste. Elizabeth,Groceries,10000
+Ste. Elizabeth,Honey,14000
+Ste. Elizabeth,Ice Cream,10000
+Ste. Elizabeth,Lumber,10000
+Ste. Elizabeth,Medicine,11000
+Ste. Elizabeth,Milk,14000
+Ste. Elizabeth,Pigs,16000
+Ste. Elizabeth,Pizza,10000
+Ste. Elizabeth,Plants,13000
+Ste. Elizabeth,Turkeys,21000
+Ste. Elizabeth,Water,29000
+Steinbach,Beer,8000
+Steinbach,Cheese,8000
+Steinbach,Fruit,5000
+Steinbach,Gas,12000
+Steinbach,Grain,14000
+Steinbach,Groceries,11000
+Steinbach,Honey,5000
+Steinbach,Ice Cream,5000
+Steinbach,Lumber,8000
+Steinbach,Medicine,11000
+Steinbach,Milk,8000
+Steinbach,Pigs,8000
+Steinbach,Plants,10000
+Steinbach,Turkeys,6000
+Steinbach,Water,15000
